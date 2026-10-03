@@ -11,3 +11,7 @@
 4. **Le plan de la v0 est arrêté.** — Structure accompagnement (hero, miroir, mécanisme, filtre, 4 états, 11 livrables, qui, prix, garantie, FAQ, relance). Titre : « Un marketing complet qui tourne sans vous. » Pas de logo, pas de photo. (landing, phase 2)
 
 5. **Les textes sont arrêtés.** — Hero en deux phrases. Phrase d'architecture conservée. FAQ à première phrase autonome. Pas de tiret long, pas de nurturing, pas de « bon fit », pas de photo. (landing, phase 3)
+
+6. **Charte figée.** — Noir et rouge de anthonyphilippo.com. Spectral + Source Sans 3 (OFL, locales). Tampon rouge : un filet sous le H1, le bouton, la formule Résident. (landing, phase 4)
+
+7. **Page en ligne.** — https://anthonyphilippo.github.io/ai-cmo/ le 2026-10-03. (landing, phase 5)
