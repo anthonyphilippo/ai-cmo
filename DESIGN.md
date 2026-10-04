@@ -2,7 +2,7 @@
 
 Les jetons dans `tokens.css` font foi.
 
-**En une phrase :** fond noir ou papier froid, encre presque noire, un rouge tampon, Spectral pour les titres, Source Sans 3 pour le texte, coins carrés, un italique par page.
+**En une phrase :** hero noir, corps papier froid, rouge belge, titres Syne extra-gras, texte Source Sans 3. Rythme et densité de sprint.pation.io, pas les couleurs ni Inter.
 
 ## 1. Couleurs
 
@@ -17,17 +17,17 @@ Les jetons dans `tokens.css` font foi.
 
 ## 2. Typographie
 
-### Spectral (titres)
-- Graisses : 700, italique 600 pour un seul mot du H1 (`sans vous`)
-- Licence : SIL OFL · Google Fonts · hébergée dans `fonts/`
-- Jamais en capitales de titre
+### Syne (titres, boutons, prix)
+- Graisses : 700, 800. Le H1 met `sans vous` en `--accent-on-ink`.
+- Licence : SIL OFL · hébergée dans `fonts/`
+- Jamais Inter.
 
 ### Source Sans 3 (texte)
 - Graisses : 400, 600 (boutons)
 - Licence : SIL OFL · hébergée dans `fonts/`
 
 ## 3. Espacements et formes
-- Coins : 0. Filets : 1px. Tampon : 3px.
+- Coins : 14px sur modules et boutons (rythme de la référence). Filets : 1px.
 - Largeur de lecture : 65ch.
 - Ombres : aucune, sauf le tampon intérieur de la formule Résident.
 
@@ -38,7 +38,7 @@ Les jetons dans `tokens.css` font foi.
 
 ## 5. Règles absolues
 1. Une action, un libellé.
-2. Un mot en italique dans le H1, pas plus.
+2. `sans vous` en rouge clair, sur sa propre ligne.
 3. Le rouge ne décore pas : il tamponne.
 
 ## 6. Jamais

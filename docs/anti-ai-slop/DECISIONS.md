@@ -15,3 +15,5 @@
 6. **Charte figée.** — Noir et rouge de anthonyphilippo.com. Spectral + Source Sans 3 (OFL, locales). Tampon rouge : un filet sous le H1, le bouton, la formule Résident. (landing, phase 4)
 
 7. **Page en ligne.** — https://anthonyphilippo.github.io/ai-cmo/ le 2026-10-03. (landing, phase 5)
+
+8. **La référence, c’est le métier visuel de sprint.pation.io, pas seulement ses rôles.** — Hero noir dense, corps papier, CTA coral/rouge, bandeau mobile, pour qui / pas pour qui, log, prix mis en avant. Couleurs Anthony (noir + rouge belge). Typo Syne, pas Inter, pas Spectral. (landing, 2026-10-04)
